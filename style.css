@@ -1,0 +1,68 @@
+  @import url("https://use.typekit.net/eex7lrc.css");
+
+h1{
+	font-family: anton, sans-serif;
+font-style: normal;
+letter-spacing: 2px;
+font-weight: 700;
+text-align: center;
+font-size: 60px;
+}
+h3{
+	font-family: anton, sans-serif;
+	letter-spacing: 2px;
+	font-size: 18px;
+
+}
+h4{
+	font-family: Arial, sans-serif;
+	color: white;
+	font size: 15px;
+	letter-spacing: -1.5px;
+	align-self: center;
+	text-align: center;
+}
+p{
+	font-family: Arial, sans-serif;
+	justify-content: center;
+}
+.nav-item .nav-link{
+	font-family: anton, sans-serif;
+	color: black;
+	font-size: 18px;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	font-weight: 900px;
+}
+.hero{
+	background-image: url("hero.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+}
+.btn{
+	background-color: #315f34;
+	font-family: anton, sans-serif;
+	letter-spacing: 2px;
+	color: white;
+	font-size: 14px;
+	border-radius: 15px;
+	border-color: transparent;
+	display: block;
+	margin: auto;
+
+
+}
+.jumbotron-fluid .container-fluid{
+	padding: 0;
+	margin: 0;
+}
+.team{
+	border-radius: 50%;
+}
+.br{
+	border-right-style: solid;
+	border-right-width: 3px;
+	border-right-color: black;
+}
